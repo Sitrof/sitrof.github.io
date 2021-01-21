@@ -1,0 +1,80 @@
+.menu a{
+  color: #111111;
+  border-left: 2px solid rgb(17, 17, 17);
+}
+.li_aktive:hover a {
+  background: rgb(255, 255, 255, 20%);
+  border-left: 2.5px solid rgb(255, 0, 252);
+  color: rgb(255, 0, 252);
+}
+.box, .box2, .br_box, .br_box1, .box3, .br_box2, .box4{
+  background-color: rgb(17, 17, 17);
+}
+h1, h2{
+  color: rgb(17, 17, 17);
+}
+.box_hr{
+    border: 5px solid rgb(17, 17, 17);
+}
+h3, .p_about, h4, .content_text1 a, .content_text1, .content_text2{
+  color: rgb(176, 176, 176);
+}
+.footer_text{
+  color: rgba(176, 176, 176, 0.40);
+}
+.p_box{
+  color: rgba(176, 176, 176, 0.40);
+  background-color: rgb(17, 17, 17);
+  border: 2px solid rgba(176, 176, 176, 0.40);
+}
+.hr_contacts{
+    border: 2px solid rgba(176, 176, 176, 0.40);
+}
+.content_text1 a:hover, .footer_text{
+    color: rgba(176, 176, 176, 0.40);
+}
+button{
+  color: rgb(17, 17, 17);
+}
+button:hover {
+    color: rgb(255, 0, 255);
+}
+#button-up {
+  color: rgb(176, 176, 176);
+}
+#button-up:hover {
+   color: rgb(255, 0, 255);
+}
+#button-up:active {
+   color: rgba(176, 176, 176, 0.40);
+}
+.art1mini:hover {
+  box-shadow: 0px 0px 5px rgb(176, 176, 176);
+}
+.art2mini:hover {
+  box-shadow: 0px 0px 5px rgb(176, 176, 176);
+}
+.art3mini:hover {
+  box-shadow: 0px 0px 5px rgb(176, 176, 176);
+}
+.art4mini:hover {
+  box-shadow: 0px 0px 5px rgb(176, 176, 176);
+}
+.art5mini:hover {
+  box-shadow: 0px 0px 5px rgb(176, 176, 176);
+}
+.art6mini:hover {
+  box-shadow: 0px 0px 5px rgb(176, 176, 176);
+}
+.art7mini:hover {
+  box-shadow: 0px 0px 5px rgb(176, 176, 176);
+}
+.art8mini:hover {
+  box-shadow: 0px 0px 5px rgb(176, 176, 176);
+}
+.art9mini:hover {
+  box-shadow: 0px 0px 5px rgb(176, 176, 176);
+}
+.art10mini:hover {
+  box-shadow: 0px 0px 5px rgb(176, 176, 176);
+}
